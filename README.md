@@ -37,6 +37,3 @@ The final modeling workflow used generalized additive models (GAMs) with MICE-ba
 - Generalized additive models (GAMs) achieved the best balance of predictive performance and interpretability
 - Flexible nonlinear terms improved modeling performance for predictors such as age, UV exposure, and lesion size
 - Simpler statistical learning methods performed competitively relative to more flexible models on this dataset
-
-## Notes
-This repository contains selected modeling code and presentation materials from an undergraduate statistical learning project focused on healthcare-related classification modeling.
